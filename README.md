@@ -64,11 +64,11 @@ Antes de iniciar a configuração, certifique-se de ter:
 
 
 ### 6. Fazendo a análise
-Pronto, agora é o momento de explorar sua pesquisa. A título de exemplo foi explorado por região e sentimentos. Mas, primeiramente, volte para o o Azure AI Search, selecione sua pesquisa e clique em "Search Explorer"
+Pronto, agora é o momento de explorar sua pesquisa. Volte para o o Azure AI Search, selecione sua pesquisa e clique em "Search Explorer"
 
 ![search-explorer-button](https://github.com/user-attachments/assets/9a113401-2f05-4102-8a5c-d9afd534e18b)
 
-Lá será possível:
+A título de exemplo foi explorado por região e sentimentos:
 #### Buscar todos os documentos:
 ```json
 {
